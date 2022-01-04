@@ -1,5 +1,10 @@
+// module.exports = {
+//   outputDir: 'docs',
+//   assetsDir: './',
+//   publicPath: './'
+// }
 module.exports = {
-  outputDir: 'docs',
-  assetsDir: './',
-  publicPath: './'
+    baseUrl: './',
+    // publicPath: '/project-name/',
+    // outputDir: 'docs'
 }
