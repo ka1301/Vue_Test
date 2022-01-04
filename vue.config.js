@@ -4,7 +4,7 @@
 //   publicPath: './'
 // }
 module.exports = {
-    baseUrl: './',
+    // baseUrl: './',
     // publicPath: '/project-name/',
-    // outputDir: 'docs'
+    outputDir: './docs'
 }
