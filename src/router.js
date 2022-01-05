@@ -36,5 +36,6 @@ const router = createRouter({
   history: createWebHistory(),
   routes,
 })
- 
+
+console.log("router.js 通過");
 export default router;

@@ -8,9 +8,10 @@
 </template>
  
 <script>
-export default {
- 
-}
+// export default {
+console.log("Home.vue　通過");
+// }
+
 </script>
  
 <style>

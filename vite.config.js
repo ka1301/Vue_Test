@@ -17,9 +17,10 @@ export default {
 	
 	//npm run build で作成されるファイルのディレクトリ
   build: {
-    outDir: 'docs'
+    outDir: 'docs',
+		mode: 'production'
   },
-	base: './'
+	base: './',
 	// publicDir: true
 }
 
