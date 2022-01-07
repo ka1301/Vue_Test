@@ -3,6 +3,7 @@
     <h1>Home</h1>
 
      <router-link to="/page">ページへ</router-link>
+     <router-link to="/test">test_ページへ</router-link>
      
   </div>
 </template>
@@ -15,9 +16,9 @@ console.log("Home.vue　通過");
 </script>
  
 <style>
-div {
+/* div {
   width: 100%;
   text-align: center;
   background-color: green; 
-}
+} */
 </style>

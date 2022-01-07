@@ -1,11 +1,11 @@
 {
   "files": {
-    "docs/index.html": [
+    "src/components/Sidebar.vue": [
       {
-        "id": "7c1c6157-f997-4cee-9ed0-7d73625cd13d",
-        "line": 11,
-        "version": 1,
-        "index": 377
+        "id": "c1c3fb6c-6c90-4058-84fe-427f698b3935",
+        "line": 18,
+        "version": 14,
+        "index": 547
       }
     ]
   }

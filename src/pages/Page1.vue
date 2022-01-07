@@ -13,8 +13,4 @@ export default {
 </script>
  
 <style>
-div {
-  width: 100%;
-  text-align: center;
-}
 </style>

@@ -11,3 +11,5 @@ Vue.js is a library for building user interfaces in JavaScript. This template us
 これからやることについて記載
 会社概要、お問い合わせ、トップ、サービス案内、
 プラスα（ログイン認証ページ）作成
+
+2022/1/5/ JavaScriptが表示されるまでできたが、Vueが表示されない..なぜ？
